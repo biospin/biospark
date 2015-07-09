@@ -13,7 +13,7 @@ bio + Python + Spark !
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
-| 1 |7/2|Introduction to Big Data and Data Science|최창순|                |
+| 1 |7/2|Introduction to Big Data and Data Science|최창순|[1회차](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/20150702_BioSpark_Part1-1.ipynb) |
 |   |    |pySpark 설치 (ipython notebook)   |최창순|                |
 | 2 |7/9 |Spark Essentials                  |김학우 |                                          |
 |   |    |문제 풀이: Learning Apache Spark | 김학우  |                                         |
