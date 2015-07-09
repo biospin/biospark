@@ -19,9 +19,9 @@ bio + Python + Spark !
 |   |    |문제 풀이: Learning Apache Spark | 김학우  |                                         |
 | 3 |7/16|Semi-Structured / Structured Data | 조혁준 |        |
 |   |    |문제 풀이: Web Server Log Analysis with Apache Spark | 조혁준 |     |
-| 4 |7/23|(유전체)5장 유전체 정보의 해석  | 최창순 |   |
-|   |    |(Edx:PH525.1x)Robust summaries | 최창순 |   |
-|   |    |(Edx:PH525.1x)dplyr |  최창순 |   |
-| 5 |7/30|(유전체)6장 기능 유전체학 | 박성진  |   |
-|   |    |(Edx:PH525.3x)Week1:Inference for High Throughput Data |   |   |
-|   |    |(Edx:PH525.4x)Bioconductor - Week1,2 |   |   |
+| 4 |7/23|Numpy 훑어보기  | 이인성 |   |
+|   |    |Pandas 훑어보기| 최창순 |   |
+| 5 |7/30|Data Quality / EDA | 김동완  |   |
+|   |    |문제 풀이: Text Analysis and Entity Resolution | 김동완 |   |
+|   |    |Machine Learning |박세진   |   |
+|   |    | 문제 풀이: Introduction to Machine Learning with Apache Spark | 박세진| |
