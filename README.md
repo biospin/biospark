@@ -15,15 +15,13 @@ bio + Python + Spark !
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
 | 1 |7/2|Introduction to Big Data and Data Science|최창순|                |
 |   |    |pySpark 설치 (ipython notebook)   |최창순|                |
-| 2 |7/7 |Spark Essentials                  |김학우 |                                          |
+| 2 |7/9 |Spark Essentials                  |김학우 |                                          |
 |   |    |문제 풀이: Learning Apache Spark | 김학우  |                                         |
-|   |    |(Edx:PH525.1x)Probability Distributions| 지용기  |                                          |
-|   |    |(Edx:PH525.1x)Inference                | 지용기  |                                         |
-| 3 |7/14|(유전체)4장 유전체 염기서열 분석법 | 김무성 |        |
-|   |    |(Edx:PH525.1x)Explatory Data Analysis | 박세진 |     |
-| 4 |7/21|(유전체)5장 유전체 정보의 해석  | 최창순 |   |
+| 3 |7/16|Semi-Structured / Structured Data | 조혁준 |        |
+|   |    |문제 풀이: Web Server Log Analysis with Apache Spark | 조혁준 |     |
+| 4 |7/23|(유전체)5장 유전체 정보의 해석  | 최창순 |   |
 |   |    |(Edx:PH525.1x)Robust summaries | 최창순 |   |
 |   |    |(Edx:PH525.1x)dplyr |  최창순 |   |
-| 5 |7/28|(유전체)6장 기능 유전체학 | 박성진  |   |
+| 5 |7/30|(유전체)6장 기능 유전체학 | 박성진  |   |
 |   |    |(Edx:PH525.3x)Week1:Inference for High Throughput Data |   |   |
 |   |    |(Edx:PH525.4x)Bioconductor - Week1,2 |   |   |
