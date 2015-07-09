@@ -13,10 +13,10 @@ bio + Python + Spark !
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:---------------------------------------- |
-| 1 |7/2|Introduction to Big Data and Data Science|최창순| |
-|   |    |(유전체)2장 DNA 분석 기술   |박세진|[slide](https://drive.google.com/file/d/0B-Pug9yuNAygX3EyUk5Femk0OVk)|
-| 2 |7/7 |(유전체)3장 유전체 지도 작성법 |박성진 |                                          |
-|   |    |(Edx:PH525.1x)R Programming Skills | 지용기  |  [slide](https://drive.google.com/open?id=0B6bSLTlVnagfOHpYMGlzaVhnekk)                                        |
+| 1 |7/2|Introduction to Big Data and Data Science|최창순|                |
+|   |    |pySpark 설치 (ipython notebook)   |최창순|                |
+| 2 |7/7 |Spark Essentials                  |김학우 |                                          |
+|   |    |문제 풀이: Learning Apache Spark | 김학우  |                                         |
 |   |    |(Edx:PH525.1x)Probability Distributions| 지용기  |                                          |
 |   |    |(Edx:PH525.1x)Inference                | 지용기  |                                         |
 | 3 |7/14|(유전체)4장 유전체 염기서열 분석법 | 김무성 |        |
