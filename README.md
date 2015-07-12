@@ -6,6 +6,7 @@ bio + Python + Spark !
 * 매주 목요일, 저녁 7시 ~ 9시. 윙스터디 강남2호점
 * Edx 자료 - BerkeleyX: CS100.1x Introduction to Big Data with Apache Spark 
 강의 (https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/info)  
+* Edx 강의 PDF 파일 (https://drive.google.com/drive/folders/0B9Kw7gzfNO5ZfkJXQmdnS2Zyek81M2lnV2pEZjZ6aUl6YndvZU5IajNfcDEyb2FwMS1aTVE)
 
 # 커리큘럼
 <b>PART I</b>
