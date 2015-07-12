@@ -17,7 +17,7 @@ bio + Python + Spark !
 | 1 |7/2|Introduction to Big Data and Data Science|최창순|[1회차](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/20150702_BioSpark_Part1-1.ipynb) |
 |   |    |pySpark 설치 (ipython notebook)   |최창순|                |
 | 2 |7/9 |Spark Essentials                  |김학우 |[2회차](https://docs.google.com/presentation/d/1MwPX4AgAgnyi2mDWDtZnNbBhkuI9Atgm0ys48kC_4H0/edit#slide=id.p3)|
-|   |    |문제 풀이: Learning Apache Spark | 김학우  |                                         |
+|   |    |문제 풀이: Learning Apache Spark | 김학우  |[2회차 문제](http://nbviewer.ipython.org/github/gdwangh/CS100.1xIntroBigDatawithSpark/blob/master/lab1/lab1_word_count_student.ipynb)|
 | 3 |7/16|Semi-Structured / Structured Data | 조혁준 |        |
 |   |    |문제 풀이: Web Server Log Analysis with Apache Spark | 조혁준 |     |
 | 4 |7/23|Numpy 훑어보기  | 이인성 |   |
