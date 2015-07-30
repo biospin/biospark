@@ -18,11 +18,11 @@ bio + Python + Spark !
 |   |    |pySpark 설치 (ipython notebook)   |최창순|                |
 | 2 |7/9 |Spark Essentials                  |김학우 |[2회차](https://docs.google.com/presentation/d/1MwPX4AgAgnyi2mDWDtZnNbBhkuI9Atgm0ys48kC_4H0/edit#slide=id.p3)|
 |   |    |문제 풀이: Learning Apache Spark | 김학우  |[2회차 문제](http://nbviewer.ipython.org/github/gdwangh/CS100.1xIntroBigDatawithSpark/blob/master/lab1/lab1_word_count_student.ipynb)|
-| 3 |7/16|Semi-Structured / Structured Data | 조혁준 |        |
+| 3 |7/16|Semi-Structured / Structured Data | 조혁준 |[Slide](https://drive.google.com/drive/folders/0B9Kw7gzfNO5ZflFITFdXWm1vMi1vR0FaaWlCRnRvTVN3NzQxUEVVNTFhbHpYWEJaNXRBZGs)        |
 |   |    |문제 풀이: Web Server Log Analysis with Apache Spark | 조혁준 |     |
-| 4 |7/23|Numpy 훑어보기  | 이인성 |   |
+| 4 |7/30|Numpy 훑어보기  | 이인성 |   |
 |   |    |Pandas 훑어보기| 최창순 |   |
-| 5 |7/30|Data Quality / EDA | 김동완  |   |
+| 5 |8/6|Data Quality / EDA | 김동완  |   |
 |   |    |문제 풀이: Text Analysis and Entity Resolution | 김동완 |   |
-|   |    |Machine Learning |박세진   |   |
-|   |    | 문제 풀이: Introduction to Machine Learning with Apache Spark | 박세진| |
+| 6 |8/13|Machine Learning |임성광   |   |
+|   |    | 문제 풀이: Introduction to Machine Learning with Apache Spark | 임성광| |
