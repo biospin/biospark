@@ -14,11 +14,11 @@ bio + Python + Spark !
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:----------------------------------------: |
-| 1 |7/2|Introduction to Big Data and Data Science|최창순|[1회차](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/20150702_BioSpark_Part1-1.ipynb) |
+| 1 |7/2|Introduction to Big Data and Data Science|최창순|[발표자료](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/20150702_BioSpark_Part1-1.ipynb) |
 |   |    |pySpark 설치 (ipython notebook)   |최창순|                |
-| 2 |7/9 |Spark Essentials                  |김학우 |[2회차](https://docs.google.com/presentation/d/1MwPX4AgAgnyi2mDWDtZnNbBhkuI9Atgm0ys48kC_4H0/edit#slide=id.p3)|
+| 2 |7/9 |Spark Essentials                  |김학우 |[발표자료](https://docs.google.com/presentation/d/1MwPX4AgAgnyi2mDWDtZnNbBhkuI9Atgm0ys48kC_4H0/edit#slide=id.p3)|
 |   |    |문제 풀이: Learning Apache Spark | 김학우  |[2회차 문제](http://nbviewer.ipython.org/github/gdwangh/CS100.1xIntroBigDatawithSpark/blob/master/lab1/lab1_word_count_student.ipynb)|
-| 3 |7/16|Semi-Structured / Structured Data | 조혁준 |[Slide](https://drive.google.com/file/d/0BwQoq3wA1cX1MVIzblJzZTFUR1k/view)        |
+| 3 |7/16|Semi-Structured / Structured Data | 조혁준 |[발표자료](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/Week3/biospark.ipynb)|
 |   |    |문제 풀이: Web Server Log Analysis with Apache Spark | 조혁준 |     |
 | 4 |7/30|pySpark를 이용한 Word Count  | 최창순 |[문제풀이1](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/Week4/lab1_word_count_student_Answer_CS_20150730.ipynb)|
 |   |    |pySpark를 이용한 서버 로그 분석| 조혁준 |   |
