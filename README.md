@@ -20,7 +20,7 @@ bio + Python + Spark !
 |   |    |문제 풀이: Learning Apache Spark | 김학우  |[2회차 문제](http://nbviewer.ipython.org/github/gdwangh/CS100.1xIntroBigDatawithSpark/blob/master/lab1/lab1_word_count_student.ipynb)|
 | 3 |7/16|Semi-Structured / Structured Data | 조혁준 |[Slide](https://drive.google.com/file/d/0BwQoq3wA1cX1MVIzblJzZTFUR1k/view)        |
 |   |    |문제 풀이: Web Server Log Analysis with Apache Spark | 조혁준 |     |
-| 4 |7/30|pySpark를 이용한 Word Count  | 최창순 |   |
+| 4 |7/30|pySpark를 이용한 Word Count  | 최창순 |[문제풀이1](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/Week4/lab1_word_count_student_Answer_CS_20150730.ipynb)|
 |   |    |pySpark를 이용한 서버 로그 분석| 조혁준 |   |
 | 5 |8/6|Data Quality / EDA | 김동완  |   |
 |   |    |문제 풀이: Text Analysis and Entity Resolution | 김동완 |   |
