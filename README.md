@@ -19,7 +19,7 @@ bio + Python + Spark !
 | 2 |7/9 |Spark Essentials                  |김학우 |[발표자료](https://docs.google.com/presentation/d/1MwPX4AgAgnyi2mDWDtZnNbBhkuI9Atgm0ys48kC_4H0/edit#slide=id.p3)|
 | 3 |7/16|Semi-Structured / Structured Data | 조혁준 |[발표자료](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/Week3/biospark.ipynb)|
 | 4 |7/30|pySpark를 이용한 Word Count  | 최창순 |[문제풀이1](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/Week4/lab1_word_count_student_Answer_CS_20150730.ipynb)|
-|   |    |pySpark를 이용한 서버 로그 분석| 조혁준 |   |
+|   |    |정규표현식 살펴보기| 김동완 |[발표자료](https://docs.google.com/document/d/1E185qknU4exS_V8vxg6HAlEtS3Gmw3LQnv6bXM_2UOw/edit)|
 | 5 |8/6|Data Quality / EDA | 김동완  |   |
 |   |    |문제 풀이: Text Analysis and Entity Resolution | 김동완 |   |
 | 6 |8/13|Machine Learning |임성광   |   |
