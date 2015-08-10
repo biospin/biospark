@@ -11,10 +11,10 @@ bio + Python + Spark !
 * BerkeleyX: CS100.1x Introduction to Big Data with Apache Spark 
 * 강의 (https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/info)  
 
-<b>PART I</b>
+<b>PART II</b>
 
 * BerkeleyX: CS190.1x Scalable Machine Learning
-* 강의 (https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/courseware/d1f293d0cb53466dbb5c0cd81f55b45b/)
+* 강의 (https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
 
 # 커리큘럼
 <b>PART I</b>
