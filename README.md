@@ -4,15 +4,12 @@ bio + Python + Spark !
 
 # 스터디 정보 
 * 매주 목요일, 저녁 7시 ~ 9시. 강남 글로벌 널리지
-* Edx 자료
 
 <b>PART I</b>
-
 * BerkeleyX: CS100.1x Introduction to Big Data with Apache Spark 
 * 강의 (https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/info)  
 
 <b>PART II</b>
-
 * BerkeleyX: CS190.1x Scalable Machine Learning
 * 강의 (https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
 
