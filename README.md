@@ -20,7 +20,7 @@ bio + Python + Spark !
 | 3 |7/16|Semi-Structured / Structured Data | 조혁준 |[발표자료](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/Week3/biospark.ipynb)|
 | 4 |7/30|pySpark를 이용한 Word Count  | 최창순 |[발표자료](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/Week4/lab1_word_count_student_Answer_CS_20150730.ipynb)|
 |   |    |정규표현식 살펴보기| 김동완 |[발표자료](https://docs.google.com/document/d/1E185qknU4exS_V8vxg6HAlEtS3Gmw3LQnv6bXM_2UOw/edit)|
-| 5 |8/6|pySpark를 이용한 Web Server Log Analysis| 최창순  |   |
-|   |    |pySpark를 이용한 Text Analysis와 Entity Resolution | 김동완 |   |
-| 6 |8/13|Machine Learning |임성광   |   |
-|   |    | 문제 풀이: Introduction to Machine Learning with Apache Spark | 임성광| |
+| 5 |8/6|pySpark를 이용한 Web Server Log Analysis| 최창순  |[발표자료](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/Week5/lab2_apache_log_student_Answer_CS_20150806.ipynb)|
+|   |    |pySpark를 이용한 Text Analysis와 Entity Resolution(1) | 김동완 |[발표자료](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/Week5/2015_08_06_lab3_text_analysis_and_entity_resolution_student.ipynb)|
+| 6 |8/13|pySpark를 이용한 Text Analysis와 Entity Resolution(2) | 김동완 | |
+|   |    |Introduction to Machine Learning with Apache Spark | 임성광| |
