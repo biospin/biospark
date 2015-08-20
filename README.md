@@ -36,8 +36,8 @@ bio + Python + Spark !
 
 | 회차  | 일시   | 내용                                  | 발표자  |              발표자료                    |
 | ----- |:------:| :-------------------------------------|:-------:|:----------------------------------------: |
-| 1 |8/20|Introduction to Big Data and Data Science        |         |                                           |
-|   |    |pySpark 설치 (ipython notebook)                 |         |                                          |
+| 1 |8/20|pySpark 설치 및 기초                          |최창순   |[발표자료](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part2/Week1_20150820/spark_tutorial_student.ipynb)|
+|   |    |pySpark를 이용한 간단한 실습(Word count)      |최창순   |[발표자료](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/Week4/lab1_word_count_student_Answer_CS_20150730.ipynb)|
 | 2 |9/3 |Linear Regression and Distributed ML Principles |         |                                          |
 |   |    |실습 : Millionsong Regression Pipeline           |         |                                          |
 | 3 |9/10|Logistic Regression and Click-through Rate Prediction  |     |                                          |
