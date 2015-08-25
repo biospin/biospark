@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: 소비자On
+name: biospark
 
 # Short bio or description (displayed in the header)
-description: 소비자심리 + 온라인 스킬업 
+description: bio + Python + Spark !
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://cloud.githubusercontent.com/assets/1955312/9403825/3a18230e-4825-11e5-9611-26fbc1cb9936.png
+avatar: https://raw.githubusercontent.com/biospin/biospark/gh-pages/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -19,9 +19,9 @@ avatar: https://cloud.githubusercontent.com/assets/1955312/9403825/3a18230e-4825
 footer-links:
   dribbble:
   email:
-  facebook: groups/psygrammer/
+  facebook: groups/biospin/
   flickr:
-  github: psygement/ScalaML
+  github: biospin/biospark
   instagram:
   linkedin:
   pinterest:
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/ScalaML"
+baseurl: "/biospark"
 
 #
 # !! You don't need to change any of the configuration flags below !!
