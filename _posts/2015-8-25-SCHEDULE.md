@@ -14,7 +14,7 @@ title: 스터디 일정 & 커리큘럼 & 발표자료
 | 1 |8/20|pySpark 설치 및 기초                          |최창순   |[발표자료](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part2/Week1_20150820/spark_tutorial_student.ipynb)|
 |   |    |pySpark를 이용한 간단한 실습(Word count)      |최창순   |[발표자료](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part1/Week4/lab1_word_count_student_Answer_CS_20150730.ipynb)|
 | 2 |9/3 | Numpy module 소개 및 Linear regression| 최창순 |[발표자료](http://nbviewer.ipython.org/github/biospin/biospark/blob/master/Part2/Week2_20150903/Week2_Numpy_LinearReg.ipynb) |
-|   |    | Linear Regression and Distributed ML Principles  | 최홍용  |                                          |
+|   |    | Linear Regression and Distributed ML Principles  | 최홍용  |[발표자료](https://drive.google.com/file/d/0Bxpyd3jlvM81TDBlT2tXUHBjcGM/view)                                          |
 | 3 |9/10|실습 : Millionsong Regression Pipelin  |김가경 |         |
 |   |    | Logistic Regression and Click-through Rate Predictione | 김동완  |                                          |
 | 4 |9/17|        |         |                                           |
